@@ -1,0 +1,18 @@
+/************************************************************************************
+* Maria Fernanda Becerra
+* mfbecerr
+* CSE101
+* pa4
+* README
+************************************************************************************/
+
+Files Included:
+
+README              includes all files submitted
+Makfile             makes FindPath and GraphTest
+FindComponents.c    Graph.c client that finds connected componets of Graph G
+GraphTest.c         checks Graph.c functions
+Graph.h             header file for Graph.c
+Graph.c             Makes a graph and can run DFS and BFS on it
+List.h              header file for List.c
+List.c              makes linked lists
